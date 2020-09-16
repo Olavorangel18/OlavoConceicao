@@ -54,8 +54,8 @@ h1{
 #subtitulo{
   color: white;
   font-family: 'Quicksand', sans-serif;
-  padding-left: 16%;
-  padding-right: 10%;
+  padding-left: 25%;
+  padding-right: 25%;
   padding-bottom: 3%;
   font-size: 30px;
 }
@@ -324,6 +324,14 @@ h3.espaço{
     margin: 10px auto;
     float:none;
   }
+#subtitulo{
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-bottom: 3%;
+  font-size: 30px;
+}
   .logoMeio{
     width:100%;
     margin-left:0px;
