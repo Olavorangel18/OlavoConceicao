@@ -285,7 +285,10 @@ h3.espaço{
   text-decoration:none;
   font-size:16.5px;
 }
-
+.final{
+  padding-bottom:0px;
+  margin-block-start: 0px;
+}
 @media all and (max-width:1024px){
   #menu{
     visibility: hidden;
