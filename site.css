@@ -300,6 +300,10 @@ address#vida{
 }
 
 @media all and (max-width:1024px){
+
+  .preenchimento{
+  padding-top:25%;
+}
   #menu{
     visibility: hidden;
   }
